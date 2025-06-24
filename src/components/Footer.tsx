@@ -19,7 +19,7 @@ const Footer = () => {
               Instagram
             </a>
             <a
-              href="mailto:info@olosoftvision@gmail.com"
+              href="mailto:olosoftvision@gmail.com"
               className="text-gray-400 hover:text-white transition-colors duration-300"
             >
               Email
